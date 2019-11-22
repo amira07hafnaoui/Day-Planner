@@ -15,7 +15,7 @@ Near the top of the calendar, the application should display the current day. Ad
 
 You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
-You can view a live version of the  app at :
+You can view a live version of the  app at : https://amira07hafnaoui.github.io/Day-Planner/
 
 
 # licence
